@@ -1,0 +1,101 @@
+.indegisn,
+.trang-6-child {
+  position: absolute;
+  top: 130px;
+}
+.indegisn {
+  left: 109px;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-oleo-script-swash-caps);
+  color: var(--color-pink);
+  display: inline-block;
+  width: 678px;
+  height: 166px;
+}
+.trang-6-child {
+  left: 149px;
+  border-radius: var(--br-56xl-5);
+  width: 597px;
+  height: 151px;
+}
+.dn-trang-thit {
+  position: absolute;
+  top: 177px;
+  left: 760px;
+}
+.jisoo-01-page-0001-1,
+.jisoo-25-page-0001-1,
+.jisoo-27-page-0001-1 {
+  position: absolute;
+  top: 339px;
+  left: 191px;
+  width: 422px;
+  height: 601px;
+  object-fit: cover;
+}
+.jisoo-25-page-0001-1,
+.jisoo-27-page-0001-1 {
+  left: 760px;
+  width: 407px;
+}
+.jisoo-27-page-0001-1 {
+  left: 1299px;
+  width: 440px;
+  height: 600px;
+}
+.singer-jisoo {
+  position: absolute;
+  top: 990px;
+  left: 811px;
+  color: var(--color-pink);
+}
+.home5 {
+  position: absolute;
+  top: 13px;
+  left: 42px;
+  display: inline-block;
+  width: 175px;
+  height: 37px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+}
+.frame-22-button5 {
+  position: absolute;
+  top: 51px;
+  left: 1277px;
+  background-color: var(--color-khaki-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+  width: 250px;
+  height: 75px;
+  font-family: var(--font-gravitas-one);
+}
+.div8 {
+  position: absolute;
+  top: -7px;
+  left: 51px;
+  display: inline-block;
+  width: 100px;
+  cursor: pointer;
+}
+.frame-21-button10 {
+  position: absolute;
+  top: 51px;
+  left: 1017px;
+  background-color: var(--color-khaki-300);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+  width: 202px;
+  height: 71px;
+  font-size: var(--font-size-45xl);
+  font-family: var(--font-hammersmith-one);
+}
+.trang-6 {
+  position: relative;
+  background-color: var(--color-darkolivegreen);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-libre-baskerville);
+}

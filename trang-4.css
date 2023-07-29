@@ -1,0 +1,108 @@
+.branding {
+  position: absolute;
+  top: 69px;
+  left: 47px;
+  font-size: var(--font-size-77xl);
+  font-family: var(--font-oleo-script-swash-caps);
+  color: var(--color-pink);
+  display: inline-block;
+  width: 678px;
+  height: 166px;
+}
+.trang-4-child,
+.xy-dng-thng {
+  position: absolute;
+  top: 141px;
+  left: 686px;
+}
+.trang-4-child {
+  top: 65px;
+  left: 87px;
+  border-radius: var(--br-56xl-5);
+  width: 597px;
+  height: 151px;
+}
+.logo-cherry-cake-page-0001-1 {
+  position: absolute;
+  top: 303px;
+  left: 320px;
+  border-radius: 230px;
+  width: 1280px;
+  height: 721px;
+  object-fit: cover;
+}
+.thng-hiu {
+  position: absolute;
+  top: 235px;
+  left: 596px;
+  color: var(--color-pink);
+}
+.home3 {
+  position: absolute;
+  top: 13px;
+  left: 42px;
+  display: inline-block;
+  width: 175px;
+  height: 37px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+}
+.frame-21-button6,
+.frame-22-button3 {
+  position: absolute;
+  top: 41px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+}
+.frame-22-button3 {
+  left: 1291px;
+  background-color: var(--color-khaki-100);
+  width: 250px;
+  height: 75px;
+  font-family: var(--font-gravitas-one);
+}
+.frame-21-button6 {
+  left: 1031px;
+  background-color: var(--color-khaki-300);
+  width: 202px;
+  height: 71px;
+}
+.div4 {
+  position: absolute;
+  top: -4px;
+  left: 86px;
+  display: inline-block;
+  width: 100px;
+  cursor: pointer;
+}
+.div5,
+.frame-21-button7 {
+  position: absolute;
+  font-size: var(--font-size-45xl);
+  font-family: var(--font-hammersmith-one);
+}
+.frame-21-button7 {
+  top: 43px;
+  left: 1599px;
+  background-color: var(--color-khaki-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+  width: 242px;
+  height: 71px;
+}
+.div5 {
+  top: 34px;
+  left: 1082px;
+  display: inline-block;
+  width: 100px;
+  cursor: pointer;
+}
+.trang-4 {
+  position: relative;
+  background-color: var(--color-darkolivegreen);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-libre-baskerville);
+}

@@ -1,0 +1,106 @@
+.icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 2160px;
+  height: 1080px;
+  object-fit: cover;
+}
+.my-project {
+  position: absolute;
+  top: 404px;
+  left: 280px;
+  font-size: var(--font-size-181xl);
+  color: var(--color-pink);
+  display: inline-block;
+  width: 1359px;
+  height: 244px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+}
+.div1 {
+  position: absolute;
+  top: 674px;
+  left: 1276px;
+  font-size: var(--font-size-29xl);
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.greeting-from,
+.home2 {
+  position: absolute;
+  display: inline-block;
+}
+.greeting-from {
+  top: 287px;
+  left: 137px;
+  width: 689px;
+  height: 90px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  -webkit-text-stroke: 1px #113305;
+}
+.home2 {
+  top: 13px;
+  left: 42px;
+  width: 175px;
+  height: 37px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+}
+.frame-21-button4,
+.frame-22-button2 {
+  position: absolute;
+  top: 925px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+}
+.frame-22-button2 {
+  left: 812px;
+  background-color: var(--color-khaki-100);
+  width: 250px;
+  height: 75px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-gravitas-one);
+}
+.frame-21-button4 {
+  left: 552px;
+  background-color: var(--color-khaki-300);
+  width: 202px;
+  height: 71px;
+}
+.div2 {
+  position: absolute;
+  top: -4px;
+  left: 86px;
+  display: inline-block;
+  width: 100px;
+  cursor: pointer;
+}
+.div3,
+.frame-21-button5 {
+  position: absolute;
+  font-family: var(--font-hammersmith-one);
+}
+.frame-21-button5 {
+  top: 927px;
+  left: 1120px;
+  background-color: var(--color-khaki-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.5);
+  width: 242px;
+  height: 71px;
+}
+.div3 {
+  top: 918px;
+  left: 603px;
+  display: inline-block;
+  width: 100px;
+  cursor: pointer;
+}
+.trang-3 {
+  position: relative;
+  background-color: var(--color-mistyrose);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-45xl);
+  color: var(--color-white);
+  font-family: var(--font-molle);
+}
